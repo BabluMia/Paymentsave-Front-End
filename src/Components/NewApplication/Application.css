@@ -1,0 +1,27 @@
+th {
+  text-transform: capitalize !important;
+  font-size: 13px !important;
+  color: #212121 !important;
+  /* border-right: 0.4px #BDBDBD !important; */
+}
+/* td{
+    font-size: 12px !important;
+    padding: 10px 5px !important;
+} */
+tr:hover .custom {
+  background: #38b6ff;
+  color: white;
+}
+tr:hover table {
+  border-radius: 5px 5px 0px 0px !important;
+  background:  red !important;
+}
+.pagination button:hover {
+  border-radius: 4px !important;
+}
+tr:hover .th {
+  color: white !important;
+}
+.heading {
+  border-radius: 5px 5px 0px 0px !important;
+}
